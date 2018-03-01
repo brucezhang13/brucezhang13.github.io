@@ -5,7 +5,7 @@ baseurl:
 url: http://wolfyn.biz
 date_format: "ordinal"
 title: 孤独剑
-subtitle: "伪极客一枚"
+subtitle: "男人就应该对自己狠一点"
 description: "孤独剑的个人博客"
 keywords: 孤独剑, Bruce zhang, wolfyn
 timezone: Asia/Shanghai
@@ -88,7 +88,7 @@ repository: mzlogin/mzlogin.github.io
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 #disqus:
-#    username: 
+#    username:
 # https://imsun.net/posts/gitment-introduction/
 #gitment:
 #    owner: mzlogin

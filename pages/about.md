@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 伪极客一枚
+description: 男人就应该对自己狠一点
 keywords: Bruce zhang, 孤独剑
 comments: true
 menu: 关于
