@@ -2,17 +2,13 @@
 layout: page
 title: About
 description: 男人就应该对自己狠一点
-keywords: Bruce zhang, 孤独剑
+keywords: 孤独剑, wolfyn, brucezhang13, wolfyn13
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-最可怕的事情，莫过于：
-这个世上有诸多美景，而我却碌碌一生。
-
-共勉：
-愿你我能在最好的年华里，活出平凡却不平庸的自己。
+坚信熟能生巧，努力改变人生。
 
 ## 联系
 

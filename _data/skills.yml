@@ -1,16 +1,14 @@
-- name: Information Security Engineer Keywords
+- name: cloud Engineer Keywords
   keywords:
-      - Kali
+      - HCIE-CLOUD
+      - VCAP-CMA
       - Python
-      - Design Network
+      - Design Patterns
 
-- name: System Engineer Keywords
+- name: bigdata Engineer Keywords
   keywords:
-      - AIX
-      - LINUX
-      - Windows
+      - HCIE-BIGDATA
 
-- name: database Engineer Keywords
+- name: OSCP Keywords
   keywords:
-      - Oracle database and MMA
-      - Oracle Mysql
+      - Kali linux
